@@ -1,0 +1,8 @@
+
+# Scala, Spark, and Java
+.idea
+.bsp
+*.jar
+**/project/*
+**/target/*
+**/metastore_db
